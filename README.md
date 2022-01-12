@@ -182,7 +182,7 @@ h1{
 
 ## OUTPUT:
 
-![output]()
+![output](https://github.com/charansai0/mathwebsite/blob/main/Screenshot%20(219).png?raw=true)
 
 ## Result:
 
