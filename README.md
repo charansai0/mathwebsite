@@ -180,7 +180,7 @@ h1{
 ~~~
 ## OUTPUT:
 
-![output](https://github.com/charansai0/mathwebsite/blob/main/Screenshot%20(219).png?raw=true)
+![output](https://github.com/charansai0/mathwebsite/blob/main/Screenshot%20(221).png?raw=true)
 
 ## Result:
 
