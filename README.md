@@ -36,7 +36,6 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ~~~
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,7 +49,7 @@ Publish the website in the given URL.
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  background-color:rgb(988, 198, 274);
+  background-color:rgb(133, 125, 245);
 }
 .container {
   width: 1080px;
@@ -120,6 +119,7 @@ h1{
                 atext=document.querySelector("#aedit");
                 btext=document.querySelector("#bedit");
                 ctext=document.querySelector("#cedit");
+
                 aval=parseInt(atext.value);
                 bval=parseInt(btext.value);
                 cval=22/7*aval*2(bval);
@@ -147,24 +147,31 @@ h1{
                 <div class="formelement">
                 Formula is:V=π*Radius^2*Height/3
                 </div><br>
+                
             </form>
+    
             </div>
         </div>
         <script type="text/javascript">
           var button;
           button=document.querySelector("#calbutton");
           button.addEventListener("click",function(){
-            https://www.instagram.com/
+            
               var radiustext,heighttext,volumetext;
               var aval,bval,cval;
+    
               radiustext=document.querySelector("#radiusedit");
               heighttext=document.querySelector("#heightedit");
               volumetext=document.querySelector("#volumeedit");
+      
               aval=parseInt(radiustext.value);
               bval=parseInt(heighttext.value);
               cval=(22/7)aval2(bval/3);
               volumetext.value=""+cval;
+        
+      
             });
+      
         </script>     
 
     
